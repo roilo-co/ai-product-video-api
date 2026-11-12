@@ -1,8 +1,8 @@
 <div align="center">
 
-# Roilo API: AI Video Ads From Your Product Photos
+# Roilo API: AI UGC Video Ads From a Few Product or Venue Photos
 
-**Send product photos. Get back a finished video ad.**
+**Send a few product or venue photos. Get back a usable UGC video ad.**
 
 Roilo makes AI UGC video ads. It writes the script and generates the scenes with your product and presenter. It records the voiceover, burns in captions and makes the cuts.<br>
 The video comes in 9:16, 1:1 or 16:9. Make videos from your own app with the API, or by chat in Claude through the Roilo MCP server.
